@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<plasterManifest
+  schemaVersion="1.1"
+  templateType="Project" xmlns="http://www.microsoft.com/schemas/PowerShell/Plaster/v1">
+  <metadata>
+    <name>PowershellModulePlaster</name>
+    <id>fb7e77fc-a4f5-4274-90c0-a7ac931c06f7</id>
+    <version>0.0.1</version>
+    <title>Powershell Module Plaster</title>
+    <description>Creates a new Powershell Module containig tests, git, nuspec and module directories</description>
+    <author>Johannes Schöpp</author>
+    <tags></tags>
+  </metadata>
+  <parameters></parameters>
+  <content></content>
+</plasterManifest>
